@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                "https://kyuye.github.io"
+url:                https://kyuye.github.io
 baseurl:            ""
 
 
@@ -39,7 +39,7 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:             "ivyheart2@gmail.com"
+#email:             ivyheart2@gmail.com
 twitter:            username
 facebook:           "https://www.facebook.com/ivyheart2"
 github-url:         "https://github.com/Kyuye"
@@ -72,7 +72,7 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: ""
+    base_url: https://github.com
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]

@@ -13,6 +13,7 @@ comments: true
 
 <p align="center"><img src="https://github.com/Kyuye/kyuye.github.io/blob/master/assets/img/robot.png?raw=true" width="500px" height="300px"></p><p align="center">미쳤습니까, 휴먼?!</p>
 
+<br><br> 
 물론 다하면 좋겠지만 우리는 인간미 넘치는 Human 이다 (모든걸 다할 순 없다)
 그래서 전체 흐름을 보되 인간과 디지털 시스템과의 상호작용을 주로 보고, 여러 파트의 사람들과 협업하며 설계 및 구현을 하게 된다.
 

@@ -16,7 +16,7 @@ HCI는 인간을 중심으로 구현될 때 진정한 의미를 가집니다.
 사람을 중심으로 HCI를 적용하기 위해서는 어떠한 부분이 필요할까요?
 바로 사람에 대한 '공감'과 '관심' 입니다. 끊임없는 사람에 대한 관심으로 시작하여 사용자가 가지고 있는 불편함과 문제를 인지하고 이를 해결하기 위한 여러 방법을 적용하여 사용자, 고객이 다방면으로 만족할 수 있는 기술 서비스를 만드는 것이 HCI의 최종 목표가 됩니다.
 
-<img src="https://github.com/Kyuye/kyuye.github.io/blob/master/assets/img/profile.png?raw=true" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="https://github.com/Kyuye/kyuye.github.io/blob/master/assets/img/profile.png?raw=true" width="700px" height="300px" title="프로필이미지" alt="kyuye song"></img><br/>
 ## Herstory : kyu-ye & HCI 
 
 사람에 대한 관심의 시작과 끝으로 끊임없이 공부하고 있는 현업 HCI engineer 이자 Machine learning engineer 입니다.

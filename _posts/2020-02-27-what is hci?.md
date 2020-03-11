@@ -2,9 +2,9 @@
 layout: post
 title: "그래. 그렇다면, HCI는 무엇인가?"
 date: 2020-02-27
-excerpt: "A ton of text to test readability."
+excerpt: "HCI가 무엇인가.특징은 어떠한가"
 tags: [sample post, readability, test]
-comments: true
+comments: false
 ---
 
 > HCI를 풀어보면 Human-Computer Interaction 라고 한다. 

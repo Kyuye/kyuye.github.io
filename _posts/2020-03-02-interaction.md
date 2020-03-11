@@ -2,14 +2,14 @@
 layout: post
 title:  "[상호작용]interaction에 대한 고찰"
 date:   2020-03-02
-excerpt: ""
+excerpt: "상호작용, HCI에서 가장 중요한 과정"
 tag:
 - markdown 
 - syntax
 - sample
 - test
 - jekyll
-comments: true
+comments: false
 ---
 
 ## 상호작용 오늘은 너다.   

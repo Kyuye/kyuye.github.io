@@ -150,7 +150,7 @@ comments: false
 사용자가 자신이 원하는대로 시스템과 상호작용할 수 있게하는 시스템 속성이다. 대신 사용자에게 주도권을 주되, 논리적인 흐름에 맞게 주어야 한다. 또한 시스템과 사용자 사이에 통제권을 유연하게 주고받는 전이성(task migratability)을 통해 효과적인 과업을 진행 하도록 한다. 
 
 <br>
-<p align="center"><img src="https://lh3.googleusercontent.com/proxy/_ZUtPgW9hBbkNokhAWXSjPDVPGBIqfYxgND-dnb3WUl6vCOMGxNC62ssiQtXiKq1ub3gUSQcPVpveJP37ejV6s9sGUzw_j8CKj7yg6KFgH5oeInQeBoOUPGKwbSolQXQaCjJLoF3nVwTKQ" width="450px" height="600px" ></p><p align="center">
+<p align="center"><img src="https://lh3.googleusercontent.com/proxy/_ZUtPgW9hBbkNokhAWXSjPDVPGBIqfYxgND-dnb3WUl6vCOMGxNC62ssiQtXiKq1ub3gUSQcPVpveJP37ejV6s9sGUzw_j8CKj7yg6KFgH5oeInQeBoOUPGKwbSolQXQaCjJLoF3nVwTKQ" width="450px" height="300px" ></p><p align="center">
 구글닥스 수정 제안하는 기능. 시스템 통제권과 사용자 통제권의 전이성을 잘보여줌</p>
 <br>
 

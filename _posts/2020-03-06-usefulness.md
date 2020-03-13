@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "[유용성]usability의 원리"
+title:  "[유용성]usefulness는 기본 오브 기본"
 date:   2020-03-06
-excerpt: ""
+excerpt: "유용성 : 사람들이 디지털 시스템을 효과적으로 사용하게끔 도와주는 것"
 tag:
 - markdown 
 - syntax
 - sample
 - test
 - jekyll
-comments: true
+comments: false
 ---
 
 ## 유용성 오늘은 너다.   

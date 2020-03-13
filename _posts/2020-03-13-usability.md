@@ -34,7 +34,7 @@ comments: false
 도대체 왜그러는 것일까?     
 어떤 제품이 아무리 많은 기능을 제공하더라도 사용하기 어렵거나 느리거나 이상하면 결국 그 제품을 사용하지 않을테니.뭐 제품과 서비스를 만들 때는 완전히 기본이라고 봐도 무방한 것이다. 
 
-<p align="center"><img src="https://www.verizon.com/home/accessories/media/images-accessories/RemoteControlAsst-565x565.png" width="450px" height="300px" ></p>`<p align="center">왼쪽 3개와 같은 리모콘에서 솔직히 사용하는 버튼이 몇개 있는가. 사용성에 맞게 맨 오른쪾처럼 변경됨</p><br/>
+<p align="center"><img src="https://www.verizon.com/home/accessories/media/images-accessories/RemoteControlAsst-565x565.png" width="450px" height="300px" ></p><p align="center">왼쪽 3개와 같은 리모콘에서 솔직히 사용하는 버튼이 몇개 있는가. 사용성에 맞게 맨 오른쪾처럼 변경됨</p><br/>
 
 <br><br>
 -------------------
@@ -102,15 +102,13 @@ comments: false
 - 오류 회복성 (error recovery)          
 시스템을 통해 사용자 자신이 과거에 저질렀던 오류를 정정할 수 있게 하는 속성을 의미. 
 아마 이런 경험 많았을 것이다. 워드문서 다 썼는데 저장하지 않은 채로 꺼졌거나..(하) 프로그램에서 무슨 짓을 했는데 돌이킬 수 없는 강을 건너왔을 때..ㅎ
-이런 경우에 가장 필요한 것이 오류 회복성 기능이다. 꺼져가는 불빛의 구세주 같은 기능인 것이다. 오류 회복성에는 2가지가 있다. 
-<br>
-
+이런 경우에 가장 필요한 것이 오류 회복성 기능이다. 꺼져가는 불빛의 구세주 같은 기능인 것이다. 오류 회복성에는 2가지가 있다.     
 1) 바로 이전,이전,이전 에 저질렀던 것을 취소하고 이전 상태로 돌아가는 것 (후방 오류 회복성, backward recovery)       
 문서 프로그램 대부분 제공, 보통 단축기 ctrl + z
 
 <br>
 <p align="center"><img src="https://support.content.office.net/ko-kr/media/69466934-00be-48a6-bae1-2aa47c654a65.png" width="450px" height="300px" ></p><p align="center">워드문서에서 이전작업 취소</p><br/>
-<br>
+<br>    
 
 2) 완전 이전의 상태로 돌아가는 것 (전방 오류 회복성, forward recovery)       
 새로운 절차를 걸쳐 과거의 상태로 아예 돌아가는 것. 타임머신 기능. 기본값 복원, 최근 저장한 문서 기능이 여기에 해당
@@ -159,7 +157,6 @@ comments: false
 사용자가 시스템을 사용하면서 특정 작업을 원할 때 가장 적절한 수행 방법을 선택할 수 있게 하는 시스템의 속성을 의미한다.
 여러 수행 방법이 있는데 이 중에 과업에 가장 알맞는 방법을 추천하도록 한다. 다만 대안들을 제공하고 추천할 때는 대안들 간의 차이를 명확하게 하고
 각 대안별로 어떠한 경우에 사용하는 것이 더 적당한지를 명확하게 밝혀주는 것이 필요하다.     
-<br>
 
 (1) 입력대체성 (input substitutivity)         
 시스템에 사용자가 원하는 사항을 두 가지 이상의 방법으로 입력할 수 있게 하는 시스템의 속성
@@ -167,8 +164,7 @@ comments: false
 
 <br>
 <p align="center"><img src="https://img.etnews.com/photonews/1912/1252502_20191212172537_586_0001.jpg" width="450px" height="600px" ></p><p align="center">인증서 로그인에 여러가지 입력방법 선택가능</p><br/> 
-<br>
-
+<br>     
 
 (2) 출력 대체성 (output substivity)    
 시스템 출력상황을 여러 조건에서 볼 수 있도록 하는 시스템 속성을 의미한다. 다양한 형태로 볼 수있어 원하는대로 선택해 결과물을 볼 수있다.

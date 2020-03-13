@@ -206,10 +206,11 @@ comments: false
 <p align="center"><img src="https://lh3.googleusercontent.com/proxy/4XT2rCAf1XqQLZFrY9FR7-pj22jheMEfNlY48OXO9_p0pn_SptwwG13uitrmDg2cXoZxovU4P19VV-gyPmnu4xfE88gToDb1wOjSigDeWlNF4UQ_WjzH27ql9bffQdzD4Cs-8sRqSEAGMP5LZX0J5tUCWK4XDfzmakIelLM-YfNQ0En2OQIuA4Gt6ym26FqWPZRDSBMPQfb0RcKB" width="450px" height="300px" ></p><p align="center">어포던스 디자인 사례</p><br/> 
 <br>
 
-<p align="center"><img src="https://lh3.googleusercontent.com/proxy/HTl9PBX0B2ZgcZ9MVnrccD6LW-tEzqwrqwpeFdBlLk0aik_iVX7aD4uDf525_aYkpGDi3EDiq0ZT-6W320XHEs42-KZokm3NpuO_XTHbJuA9IAgeOkPTiFvLQB0SSI4VdWiW8E70SOXnAAzMaFg325NdZdDLhrnujZk
-" width="450px" height="300px" ></p><p align="center">어포던스 디자인 사례</p><br/> 
+<p align="center"><img src="https://lh3.googleusercontent.com/proxy/HTl9PBX0B2ZgcZ9MVnrccD6LW-tEzqwrqwpeFdBlLk0aik_iVX7aD4uDf525_aYkpGDi3EDiq0ZT-6W320XHEs42-KZokm3NpuO_XTHbJuA9IAgeOkPTiFvLQB0SSI4VdWiW8E70SOXnAAzMaFg325NdZdDLhrnujZk" width="450px" height="300px" ></p><p align="center">어포던스 디자인 사례</p><br/> 
 <br>
--------------------
+
+--------------------------- 
+
 ## 사용성 속성 간의 상충 관계
 어렵게 생각할 것 없이 쉽게 학습되는 만큼 효율성이 떨어질 때도 있고 학습이 어렵지만 효율성이 올라가는 것처럼             
 사용성 속성 간에 상충 관계들이 있다. 이런 상충관계들을 잘 고려하여 제품을 설계해야할 필요가 있는 것이다.
@@ -217,8 +218,7 @@ comments: false
 <br>
 <p align="center"><img src="https://eu.landisgyr.com/hs-fs/hubfs/Finland_blog/Better_Tech_Blog/figure2.png?width=542&name=figure2.png" width="450px" height="300px" ></p><p align="center">사용성 속성 대표적 5가지</p><br/> 
 
-<p align="center"><img src="https://meetraph.com/wp-content/uploads/2019/01/image18-e1547617237935.png
-" width="450px" height="300px" ></p><p align="center">사용성 속성 간의 상충관계</p><br/> 
+<p align="center"><img src="https://meetraph.com/wp-content/uploads/2019/01/image18-e1547617237935.png" width="450px" height="300px" ></p><p align="center">사용성 속성 간의 상충관계</p><br/> 
 
 그렇다면 상충관계를 효과적으로 대처하기 위해서는 어떻게 하는 것이 좋을까? 
 <br>

@@ -34,7 +34,7 @@ comments: false
 도대체 왜그러는 것일까?     
 어떤 제품이 아무리 많은 기능을 제공하더라도 사용하기 어렵거나 느리거나 이상하면 결국 그 제품을 사용하지 않을테니.뭐 제품과 서비스를 만들 때는 완전히 기본이라고 봐도 무방한 것이다. 
 
-<p align="center"><img src="https://www.verizon.com/home/accessories/media/images-accessories/RemoteControlAsst-565x565.png" width="450px" height="300px" ></p>`<p align="center">"왼쪽 3개와 같은 리모콘에서 솔직히 사용하는 버튼이 몇개 있는가. 사용성에 맞게 맨 오른쪾처럼 변경됨"</p><br/>
+<p align="center"><img src="https://www.verizon.com/home/accessories/media/images-accessories/RemoteControlAsst-565x565.png" width="450px" height="300px" ></p>`<p align="center">왼쪽 3개와 같은 리모콘에서 솔직히 사용하는 버튼이 몇개 있는가. 사용성에 맞게 맨 오른쪾처럼 변경됨</p><br/>
 
 <br><br>
 -------------------
@@ -76,7 +76,7 @@ comments: false
 하지만 너무 많은 단축 경로는 심성모형 수립에 악영향을 줄 수 있으니 뭐든지 적당히 하도록 하자.
 
 <br>
-<p align="center"><img src="https://thumb.mt.co.kr/06/2010/09/2010092714194514314_2.jpg/dims/optimize/" width="450px" height="300px" ></p><p align="center">"모아키 자판 입력방식"</p><br/>
+<p align="center"><img src="https://thumb.mt.co.kr/06/2010/09/2010092714194514314_2.jpg/dims/optimize/" width="450px" height="300px" ></p><p align="center">모아키 자판 입력방식</p><br/>
 <br>
 
 ### 사용성 -> 기본적 차원 -> 정확성 (accuracy)       
@@ -87,7 +87,7 @@ comments: false
 사용자가 오류를 저지를 수 있는 가능성을 미연에 방지하는 것.
 어떤 행위가 복구하기 어려울 수록 애초에 그 행위를 저지르는 것 자체도 어려워야 한다는 법칙 -> 균형성의 법칙
 <br>
-<p align="center"><img src="https://filestore.community.support.microsoft.com/api/images/ccba8006-1fbe-4135-975a-dda86168bbfb" width="450px" height="300px" ></p><p align="center">"파일바꾸기 전에 다시한번 확인"</p><br/>
+<p align="center"><img src="https://filestore.community.support.microsoft.com/api/images/ccba8006-1fbe-4135-975a-dda86168bbfb" width="450px" height="300px" ></p><p align="center">파일바꾸기 전에 다시한번 확인</p><br/>
 <br>
 
 - 오류 발생 감지성 (error detection)               
@@ -95,7 +95,7 @@ comments: false
 우리가 뭔가 작업을 할 때 갑자기 "문제가 있습니다" 하면서 뚱~ 하는 소리와 함께 경고창이 나오는 경우가 종종 있다. 그럴 때 놀라기도하고 기분도 매우 안좋지만 오류를 알려주는 것은 앞으로 우리가 무슨 대처를 하고 작업을 해야할지 방향성을 알려주는 중요한 중요한 지표인 것이다.
 
 <br>
-<p align="center"><img src="https://t1.daumcdn.net/cfile/tistory/2743ED455888528912" width="450px" height="300px" ></p><p align="center">"외장하드,usb넣었을 때 인식못하고 가끔 이럴 떄마다 식겁"</p><br/>
+<p align="center"><img src="https://t1.daumcdn.net/cfile/tistory/2743ED455888528912" width="450px" height="300px" ></p><p align="center">외장하드,usb넣었을 때 인식못하고 가끔 이럴 떄마다 식겁</p><br/>
 <br>
 
 
@@ -109,7 +109,7 @@ comments: false
 문서 프로그램 대부분 제공, 보통 단축기 ctrl + z
 
 <br>
-<p align="center"><img src="https://support.content.office.net/ko-kr/media/69466934-00be-48a6-bae1-2aa47c654a65.png" width="450px" height="300px" ></p><p align="center">"워드문서에서 이전작업 취소"</p><br/>
+<p align="center"><img src="https://support.content.office.net/ko-kr/media/69466934-00be-48a6-bae1-2aa47c654a65.png" width="450px" height="300px" ></p><p align="center">워드문서에서 이전작업 취소</p><br/>
 <br>
 
 2) 완전 이전의 상태로 돌아가는 것 (전방 오류 회복성, forward recovery)       
@@ -118,7 +118,7 @@ comments: false
 
 
 <br>
-<p align="center"><img src="https://t1.daumcdn.net/cfile/tistory/9970414A5AA863B204" width="450px" height="300px" ></p><p align="center">"되돌릴 수 없을만큼 혼돈일 때 결국 기본값 복원을 누르지.."</p><br/>
+<p align="center"><img src="https://t1.daumcdn.net/cfile/tistory/9970414A5AA863B204" width="450px" height="300px" ></p><p align="center">되돌릴 수 없을만큼 혼돈일 때 결국 기본값 복원을 누르지..</p><br/>
 
 
 <p align="center"><img src="https://t1.daumcdn.net/cfile/tistory/2165834B58BFAA700B" width="450px" height="300px" ></p><p align="center">"하 감사.최근 저장된 문서 기능"</p><br/> 
@@ -136,34 +136,32 @@ comments: false
 - 이해가능성 (understandability)    
 변화 및 정보를 사용자에게 전달하면 사용자이 정보를 이해할 수 있어야 한다. 가독성이 높아야하고 논리와 이치에 맞게 배치되어야 한다. 
 <br>
-<p align="center"><img src="https://t1.daumcdn.net/cfile/tistory/2165834B58BFAA700B" width="450px" height="300px" ></p><p align="center">"하 감사.최근 저장된 문서 기능"</p><br/> 
+<p align="center"><img src="https://t1.daumcdn.net/cfile/tistory/2165834B58BFAA700B" width="450px" height="300px" ></p><p align="center">하 감사.최근 저장된 문서 기능</p><br/> 
 <br>
 
 - 학습성 (learnability)   
 초보 사용자가 시스템에 대해 어느정도 수준의 지식이 필요한지를 의미한다. 물론 쉽게 이해할 수있는 것이 제일 좋다고 보여지나 이것도 사용자와 특정 과업의 성격에 맞게 설정되어야 한다. 예를들면 산업현장에서의 공정제어 시스템에서는 쉽게 이해할 수 있는 것보단 얼마나 정확하게 정보를 이해하느냐가 매우 중요하기 때문이다. 
 <br>
 
-### 사용성 -> 부수적 차원 -> 유연성 (flexiblity) 
+### 사용성 -> 부수적 차원 -> 유연성 (flexiblity)           
 시스템을 통해 사용자가 원하는 작업을 원하는 방식으로 잘 진행할 수 있는가!를 말하는 것이다. 사실 쉽게 말해서 사용자가 원하는대로 유연적으로 대응이 되느냐 정도로 보면 되겠다. 굳이 특성을 좀 나눠보자면,
 
 - 사용자 주도권 (user pre-emptiveness)   
 사용자가 자신이 원하는대로 시스템과 상호작용할 수 있게하는 시스템 속성이다. 대신 사용자에게 주도권을 주되, 논리적인 흐름에 맞게 주어야 한다. 또한 시스템과 사용자 사이에 통제권을 유연하게 주고받는 전이성(task migratability)을 통해 효과적인 과업을 진행 하도록 한다. 
 
 <br>
-<p align="center"><img src="https://www.ciokorea.com/sites/default/files/image/google-docs-suggestion-mode-100360067-large.png" width="450px" height="300px" ></p><p align="center">"구글닥스 수정 제안하는 기능. 시스템 통제권과 사용자 통제권의 전이성을 잘보여줌"</p><br/> 
+<p align="center"><img src="https://www.ciokorea.com/sites/default/files/image/google-docs-suggestion-mode-100360067-large.png" width="450px" height="300px" ></p><p align="center">구글닥스 수정 제안하는 기능. 시스템 통제권과 사용자 통제권의 전이성을 잘보여줌"</p><br/> 
 <br>
 
 - 대체성 (substitutivity) 
 사용자가 시스템을 사용하면서 특정 작업을 원할 때 가장 적절한 수행 방법을 선택할 수 있게 하는 시스템의 속성을 의미한다.
 여러 수행 방법이 있는데 이 중에 과업에 가장 알맞는 방법을 추천하도록 한다. 다만 대안들을 제공하고 추천할 때는 대안들 간의 차이를 명확하게 하고
-각 대안별로 어떠한 경우에 사용하는 것이 더 적당한지를 명확하게 밝혀주는 것이 필요하다. 
-
+각 대안별로 어떠한 경우에 사용하는 것이 더 적당한지를 명확하게 밝혀주는 것이 필요하다.       
 (1) 입력대체성 (input substitutivity)를 통해 시스템에 사용자가 원하는 사항을 두 가지 이상의 방법으로 입력할 수 있게 하는 시스템의 속성
 
 
 <br>
-<p align="center"><img src="https://img.etnews.com/photonews/1912/1252502_20191212172537_586_0001.jpg
-" width="450px" height="300px" ></p><p align="center">인증서 로그인에 여러가지 입력방법 선택가능</p><br/> 
+<p align="center"><img src="https://img.etnews.com/photonews/1912/1252502_20191212172537_586_0001.jpg" width="450px" height="300px" ></p><p align="center">인증서 로그인에 여러가지 입력방법 선택가능</p><br/> 
 <br>
 
 
@@ -171,8 +169,7 @@ comments: false
 시스템 출력상황을 여러 조건에서 볼 수 있도록 하는 시스템 속성을 의미한다. 다양한 형태로 볼 수있어 원하는대로 선택해 결과물을 볼 수있다.
 
 <br>
-<p align="center"><img src="https://www.tabmode.com/windows10/images1/folder-image1-1.png
-" width="450px" height="300px" ></p><p align="center">폴더를 다양한 형태로 볼 수 있음</p><br/> 
+<p align="center"><img src="https://www.tabmode.com/windows10/images1/folder-image1-1.png" width="450px" height="300px" ></p><p align="center">폴더를 다양한 형태로 볼 수 있음</p><br/> 
 <br>
 
 
@@ -187,8 +184,7 @@ comments: false
 반면에 시스템 주도 측면에서의 적응성(adaptivity)은 시스템이 주도권을 가지고 시스템을 개인의 취향에 맞게 추천하는 것이다. 개인추천 서비스가 여기에 해당되는데 추천 시스템 방법도 기술적으로 여러가지 있지만 자세한건 다루지 않고 개인의 로그, 프로필에 따라 추천한다는 것만 설명하고 넘어가겠다.
 
 <br>
-<p align="center"><img src="https://nethru.co.kr/data/editor/1708/thumb-0ff72a46315e7e12cc6f54e9c12c9602_1503645476_47_800x490.png
-" width="450px" height="300px" ></p><p align="center">개인화 알고리즘의 대표예시 (출처:스마트오퍼)</p><br/> 
+<p align="center"><img src="https://nethru.co.kr/data/editor/1708/thumb-0ff72a46315e7e12cc6f54e9c12c9602_1503645476_47_800x490.png" width="450px" height="300px" ></p><p align="center">개인화 알고리즘의 대표예시 (출처:스마트오퍼)</p><br/> 
 <br>
 
 - 연결성 (connectability)   
@@ -196,19 +192,18 @@ comments: false
 대표적으로 애플 제품은 호환성이 굉장히 낮은 사례로,, 요즘은 그나마 c-type으로 통일되어 좀 낫다만 이전엔 물리적인 충전 단자부터가 일반적으로 쓰이는 단자랑 다르게 애플에서 자체개발한 단자로 쓰여 애플제품 외에는 사용할 곳이 없었으며 애플 소프트웨어도 호환성이 낮은 편이다. 하지만 애플제품 내에서는 굉장히 연결성이 높아 애플 제품으로만 디지털 기기를 구성한다면 놀라운 효율성을 보일 수 있다. 
 <br>
 
-### 사용성 -> 부수적 차원 -> 일관성 (consistency)    
+### 사용성 -> 부수적 차원 -> 일관성 (consistency)            
 
-시스템의 정보나 기능이 다른 대상과 비슷한 모습이나 유사한 역할을 가지는 것을 의미한다. 
-일관된 기능과 동작을 적용하면 제품을 사용하는 사람은 쉽게 익히고 사용할 수 있어 사용성을 높일 수 있게 되는 것이다.
+시스템의 정보나 기능이 다른 대상과 비슷한 모습이나 유사한 역할을 가지는 것을 의미한다.                     
+일관된 기능과 동작을 적용하면 제품을 사용하는 사람은 쉽게 익히고 사용할 수 있어 사용성을 높일 수 있게 되는 것이다.        
 
-여기에는 명령체계를 일관적으로 적용하는 '예측 가능성'을 높이는 방법, 
-시스템에서 어떤 행동을 했을 때 어떤 결과가 되리라는 것을 사용자에게 미리 알려주는 '정보의 향기' 방법, 
-사람들이 실제 세상에서 가지고 있는 경험을 바탕으로 시스템을 사용하는 데 친숙하게 하는 '친숙성' 방법 
-**중요! 시스템에서 제공되는 표현들이 사람들에게 어떤 행동을 유도하게 하는 '직관성(affordance)'를 높이는 방법 -> 링크는 밑줄, 클릭하는 버튼 강조 등**
+여기에는 명령체계를 일관적으로 적용하는 '예측 가능성'을 높이는 방법,               
+시스템에서 어떤 행동을 했을 때 어떤 결과가 되리라는 것을 사용자에게 미리 알려주는 '정보의 향기' 방법,            
+사람들이 실제 세상에서 가지고 있는 경험을 바탕으로 시스템을 사용하는 데 친숙하게 하는 '친숙성' 방법,               
+**중요! 시스템에서 제공되는 표현들이 사람들에게 어떤 행동을 유도하게 하는 '직관성(affordance)'를 높이는 방법 -> 링크는 밑줄, 클릭하는 버튼 강조 등**      
 
 <br>
-<p align="center"><img src="https://lh3.googleusercontent.com/proxy/4XT2rCAf1XqQLZFrY9FR7-pj22jheMEfNlY48OXO9_p0pn_SptwwG13uitrmDg2cXoZxovU4P19VV-gyPmnu4xfE88gToDb1wOjSigDeWlNF4UQ_WjzH27ql9bffQdzD4Cs-8sRqSEAGMP5LZX0J5tUCWK4XDfzmakIelLM-YfNQ0En2OQIuA4Gt6ym26FqWPZRDSBMPQfb0RcKB
-" width="450px" height="300px" ></p><p align="center">어포던스 디자인 사례</p><br/> 
+<p align="center"><img src="https://lh3.googleusercontent.com/proxy/4XT2rCAf1XqQLZFrY9FR7-pj22jheMEfNlY48OXO9_p0pn_SptwwG13uitrmDg2cXoZxovU4P19VV-gyPmnu4xfE88gToDb1wOjSigDeWlNF4UQ_WjzH27ql9bffQdzD4Cs-8sRqSEAGMP5LZX0J5tUCWK4XDfzmakIelLM-YfNQ0En2OQIuA4Gt6ym26FqWPZRDSBMPQfb0RcKB" width="450px" height="300px" ></p><p align="center">어포던스 디자인 사례</p><br/> 
 <br>
 
 <p align="center"><img src="https://lh3.googleusercontent.com/proxy/HTl9PBX0B2ZgcZ9MVnrccD6LW-tEzqwrqwpeFdBlLk0aik_iVX7aD4uDf525_aYkpGDi3EDiq0ZT-6W320XHEs42-KZokm3NpuO_XTHbJuA9IAgeOkPTiFvLQB0SSI4VdWiW8E70SOXnAAzMaFg325NdZdDLhrnujZk
@@ -216,12 +211,11 @@ comments: false
 <br>
 -------------------
 ## 사용성 속성 간의 상충 관계
-어렵게 생각할 것 없이 쉽게 학습되는 만큼 효율성이 떨어질 때도 있고 학습이 어렵지만 효율성이 올라가는 것처럼 
+어렵게 생각할 것 없이 쉽게 학습되는 만큼 효율성이 떨어질 때도 있고 학습이 어렵지만 효율성이 올라가는 것처럼             
 사용성 속성 간에 상충 관계들이 있다. 이런 상충관계들을 잘 고려하여 제품을 설계해야할 필요가 있는 것이다.
 
 <br>
-<p align="center"><img src="https://eu.landisgyr.com/hs-fs/hubfs/Finland_blog/Better_Tech_Blog/figure2.png?width=542&name=figure2.png
-" width="450px" height="300px" ></p><p align="center">사용성 속성 대표적 5가지</p><br/> 
+<p align="center"><img src="https://eu.landisgyr.com/hs-fs/hubfs/Finland_blog/Better_Tech_Blog/figure2.png?width=542&name=figure2.png" width="450px" height="300px" ></p><p align="center">사용성 속성 대표적 5가지</p><br/> 
 
 <p align="center"><img src="https://meetraph.com/wp-content/uploads/2019/01/image18-e1547617237935.png
 " width="450px" height="300px" ></p><p align="center">사용성 속성 간의 상충관계</p><br/> 

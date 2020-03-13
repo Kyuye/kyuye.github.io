@@ -150,7 +150,7 @@ comments: false
 사용자가 자신이 원하는대로 시스템과 상호작용할 수 있게하는 시스템 속성이다. 대신 사용자에게 주도권을 주되, 논리적인 흐름에 맞게 주어야 한다. 또한 시스템과 사용자 사이에 통제권을 유연하게 주고받는 전이성(task migratability)을 통해 효과적인 과업을 진행 하도록 한다. 
 
 <br>
-<p align="center"><img src="https://www.ciokorea.com/sites/default/files/image/google-docs-suggestion-mode-100360067-large.png" width="450px" height="300px" ></p><p align="center">구글닥스 수정 제안하는 기능. 시스템 통제권과 사용자 통제권의 전이성을 잘보여줌"</p><br/> 
+<p align="center"><img src="https://www.ciokorea.com/sites/default/files/image/google-docs-suggestion-mode-100360067-large.png" width="450px" height="300px" ></p><p align="center">구글닥스 수정 제안하는 기능. 시스템 통제권과 사용자 통제권의 전이성을 잘보여줌"</p> 
 <br>
 
 - 대체성 (substitutivity) 
@@ -200,7 +200,8 @@ comments: false
 여기에는 명령체계를 일관적으로 적용하는 '예측 가능성'을 높이는 방법,               
 시스템에서 어떤 행동을 했을 때 어떤 결과가 되리라는 것을 사용자에게 미리 알려주는 '정보의 향기' 방법,            
 사람들이 실제 세상에서 가지고 있는 경험을 바탕으로 시스템을 사용하는 데 친숙하게 하는 '친숙성' 방법,               
-**중요! 시스템에서 제공되는 표현들이 사람들에게 어떤 행동을 유도하게 하는 '직관성(affordance)'를 높이는 방법 -> 링크는 밑줄, 클릭하는 버튼 강조 등**      
+**중요! 시스템에서 제공되는 표현들이 사람들에게 어떤 행동을 유도하게 하는 '직관성(affordance)'를 높이는 방법        
+-> 링크는 밑줄, 클릭하는 버튼 강조 등**      
 
 <br>
 <p align="center"><img src="https://lh3.googleusercontent.com/proxy/4XT2rCAf1XqQLZFrY9FR7-pj22jheMEfNlY48OXO9_p0pn_SptwwG13uitrmDg2cXoZxovU4P19VV-gyPmnu4xfE88gToDb1wOjSigDeWlNF4UQ_WjzH27ql9bffQdzD4Cs-8sRqSEAGMP5LZX0J5tUCWK4XDfzmakIelLM-YfNQ0En2OQIuA4Gt6ym26FqWPZRDSBMPQfb0RcKB" width="450px" height="300px" ></p><p align="center">어포던스 디자인 사례</p><br/> 

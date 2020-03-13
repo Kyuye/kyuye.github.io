@@ -149,8 +149,9 @@ comments: false
 - 사용자 주도권 (user pre-emptiveness)   
 사용자가 자신이 원하는대로 시스템과 상호작용할 수 있게하는 시스템 속성이다. 대신 사용자에게 주도권을 주되, 논리적인 흐름에 맞게 주어야 한다. 또한 시스템과 사용자 사이에 통제권을 유연하게 주고받는 전이성(task migratability)을 통해 효과적인 과업을 진행 하도록 한다. 
 
+
 <br>
-<p align="center"><img src="https://www.ciokorea.com/sites/default/files/image/google-docs-modes-100360064-large.png" width="450px" height="300px" ></p><p align="center">구글닥스 수정 제안하는 기능. 시스템 통제권과 사용자 통제권의 전이성을 잘보여줌"</p> 
+<p align="center"><img src="https://www.ciokorea.com/sites/default/files/image/google-docs-modes-100360064-large.png" width="450px" height="300px" ></p><p align="center">구글닥스 수정 제안하는 기능. 시스템 통제권과 사용자 통제권의 전이성을 잘보여줌</p> 
 <br>
 
 - 대체성 (substitutivity) 
@@ -164,7 +165,7 @@ comments: false
 
 
 <br>
-<p align="center"><img src="https://img.etnews.com/photonews/1912/1252502_20191212172537_586_0001.jpg" width="450px" height="300px" ></p><p align="center">인증서 로그인에 여러가지 입력방법 선택가능</p><br/> 
+<p align="center"><img src="https://img.etnews.com/photonews/1912/1252502_20191212172537_586_0001.jpg" width="450px" height="600px" ></p><p align="center">인증서 로그인에 여러가지 입력방법 선택가능</p><br/> 
 <br>
 
 
@@ -181,8 +182,7 @@ comments: false
 반면에 워드나 파워포인트를 동시에 편집할 수 없는 것은 동시적 다중성이 아닌 교차적 다중성을 지원하기 때문이다. 워드나 파워포인트는 어느 하나에 주의를 기울여야하는 작업이므로 한 순간에 두개의 소프트웨어가 켜져는 있지만 편집 활성화는 오직 한개만 되도록 하는 것을 교차적 다중성이라고 한다. 
 <br>
 
-- 개인화 (personalization) : 개인이 시스템을 변경(개인주도) or 시스템이 개인에게 맞게 변경(시스템 주도)
-
+- 개인화 (personalization) : 개인이 시스템을 변경(개인주도) or 시스템이 개인에게 맞게 변경(시스템 주도)   
 개인화는 사용자의 취향이나 특성에 따라 시스템의 상태를 변화 시킬 수 있는 속성이다. 
 제일 많이 알려져 있는 것이 개인주도 측면에서의 '응용성(adaptability)'로 사용자가 자신의 상황이나 취향에 따라 시스템의 특성을 바꾸는 속성을 의미한다. 우리가 모바일 폰에서 자주 바꾸는 배경화면, 키스킨, 노트북 배경화면, 구글크롬 테마 등 을 뽑을 수가 있다. 
 반면에 시스템 주도 측면에서의 적응성(adaptivity)은 시스템이 주도권을 가지고 시스템을 개인의 취향에 맞게 추천하는 것이다. 개인추천 서비스가 여기에 해당되는데 추천 시스템 방법도 기술적으로 여러가지 있지만 자세한건 다루지 않고 개인의 로그, 프로필에 따라 추천한다는 것만 설명하고 넘어가겠다.

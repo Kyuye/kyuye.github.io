@@ -149,12 +149,13 @@ comments: false
 - 사용자 주도권 (user pre-emptiveness)   
 사용자가 자신이 원하는대로 시스템과 상호작용할 수 있게하는 시스템 속성이다. 대신 사용자에게 주도권을 주되, 논리적인 흐름에 맞게 주어야 한다. 또한 시스템과 사용자 사이에 통제권을 유연하게 주고받는 전이성(task migratability)을 통해 효과적인 과업을 진행 하도록 한다. 
 
-
 <br>
-<p align="center"><img src="https://www.ciokorea.com/sites/default/files/image/google-docs-modes-100360064-large.png" width="450px" height="300px" ></p><p align="center">구글닥스 수정 제안하는 기능. 시스템 통제권과 사용자 통제권의 전이성을 잘보여줌</p> 
+<p align="center"><img src="https://lh3.googleusercontent.com/proxy/_ZUtPgW9hBbkNokhAWXSjPDVPGBIqfYxgND-dnb3WUl6vCOMGxNC62ssiQtXiKq1ub3gUSQcPVpveJP37ejV6s9sGUzw_j8CKj7yg6KFgH5oeInQeBoOUPGKwbSolQXQaCjJLoF3nVwTKQ" width="450px" height="600px" ></p><p align="center">
+구글닥스 수정 제안하는 기능. 시스템 통제권과 사용자 통제권의 전이성을 잘보여줌</p>
 <br>
 
-- 대체성 (substitutivity) 
+
+- 대체성 (substitutivity)                              
 사용자가 시스템을 사용하면서 특정 작업을 원할 때 가장 적절한 수행 방법을 선택할 수 있게 하는 시스템의 속성을 의미한다.
 여러 수행 방법이 있는데 이 중에 과업에 가장 알맞는 방법을 추천하도록 한다. 다만 대안들을 제공하고 추천할 때는 대안들 간의 차이를 명확하게 하고
 각 대안별로 어떠한 경우에 사용하는 것이 더 적당한지를 명확하게 밝혀주는 것이 필요하다.     

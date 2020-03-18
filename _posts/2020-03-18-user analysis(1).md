@@ -68,7 +68,7 @@ comments: false
 그치만 일단 사용자를 크게 2가지 부류로 나눠서 보려고 한다. 
 
 
-<p align="center"><img src="https://d3i71xaburhd42.cloudfront.net/99377ad836a5242506503e1ec3faf1535c39e856/1-Figure1-1.png" width="450px" height="300px" ></p><p align="center">Descriptive model for face-to-face interaction showing location of primary and secondary users with respect to shared technology usage, from 'Clinicians as secondary users of patient-centered mobile technology in complex healthcare settings'</p><br>    
+<p align="center"><img src="https://d3i71xaburhd42.cloudfront.net/0172aa9500b7801005d323a3f3dffbe90e46b03c/3-Figure1-1.png" width="450px" height="300px" ></p><p align="center">Descriptive model for face-to-face interaction showing location of primary and secondary users with respect to shared technology usage, from 'Clinicians as secondary users of patient-centered mobile technology in complex healthcare settings'</p><br>    
 
 ### 주 사용자 (primary users)
 시스템을 사용하고 상호작용하는 사람들을 총칭하는 개념이다. 즉 우리가 말하는 사용자가 이 주 사용자를 지칭하는 것이다. 예를 들여, 모바일 게임의 사용자는 이 게임을 다운로드받고 플레이하는 사람이 주 사용자라고 볼 수 있다. 그래서 당연하게도 우리가 사용자 분석을 할 때는 이 주 사용자를 대상으로 해야하는데 그러지 않고 이 주 사용자의 주변 사람들을 대상으로 분석하는 경우가 있다. 이렇게 되면 사용자 분석하는 의미가 없을 뿐더러 잘못된 결과를 도출하여 최종적으로 설계에 악영향을 끼칠 수 있다. 

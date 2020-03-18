@@ -127,7 +127,6 @@ comments: false
 
 - 라이프스타일 특성 (style characteristics) : 사용자의 생활 패턴에 따른 선호도를 의미한다. 개인적인 성향, 특성들에 의한 구분보다 새로운 트렌드나 생활 패턴의 유사성으로 구체적으로 분류되어야할 필요가 대두되고 있다. 과거와는 다르게 다양한 생활양식이 나타났기 때문이며 이러한 라이프스타일에 따라 소비하고 추구하는 시스템의 양식도 다를 가능성이 크다. 
 
-
 <p align="center"><img src="https://www.efnews.co.kr/news/photo/201911/81806_52445_4842.jpg" width="450px" height="300px" ></p><p align="center">z세대의 카테고리별 인기앱을 통한 라이프 스타일 유추</p><br>
 
 

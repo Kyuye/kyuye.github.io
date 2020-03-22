@@ -44,23 +44,22 @@ comments: false
 - 글을 이용하는 방식   
 대부분의 시나리오는 글로 표기가 되며, 처음 시나리오를 작성할 때는 평소에 글을 쓰는 방식으로 써 나간다.  
 
-<p align="center"><img src="/path/to/img.jpg" width="450px" height="300px" ></p><p align="center">""</p><br>
+<p align="center"><img src="https://image3.slideserve.com/7037377/slide1-n.jpg" width="450px" height="300px" ></p><p align="center">시나리오 예시,출처 : https://www.slideserve.com/candace-gentry/1-7037377 </p><br>
 
 - 정형화된 양식을 이용하는 방식   
 앞서말한 HTA와 같은 방식을 차용해서 쓰는데 HTA와 다른점은 시나리오는 구체적인 한 사건을 중심으로 하는 것이지만, HTA는 일반적인 시스템의 기능을 중심으로 정리한다. 
 
-<p align="center"><img src="/path/to/img.jpg" width="450px" height="300px" ></p><p align="center">""</p><br>
 
 - 실제 화면을 이용하는 방식  
 이미 시스템이 완성되어 작동하고 있다면 각 시나리오의 절차를 화면상에 보여준다.  
-
-<p align="center"><img src="/path/to/img.jpg" width="450px" height="300px" ></p><p align="center">""</p><br>
 
 
 ### 극단적인 시나리오로 확장하는 단계   
 긍정적인 시나리오와 부정적인 시나리오를 작성한다. 보통 글을 이용해서 쓴다.  
 
-<p align="center"><img src="/path/to/img.jpg" width="450px" height="300px" ></p><p align="center">""</p><br>
+<p align="center"><img src="https://m.blog.naver.com/james_parku/110177502426?view=img_2" width="450px" height="300px" ></p><p align="center">긍정시나리오 예시, 출처 https://m.blog.naver.com/james_parku/110177502426</p><br>
+
+<p align="center"><img src="https://m.blog.naver.com/james_parku/110177502426?view=img_3" width="450px" height="300px" ></p><p align="center">부정시나리오 예시 ,출처 https://m.blog.naver.com/james_parku/110177502426</p><br>
 
 ### 영향도를 분석하는 단계    
 > 영향도 분석이란?  각 시나리오에서 파악된 시스템의 기능을 사용자의 행위에 영향을 미칠 요소를 파악하고, 이들이 각각 어떤 긍정적인 영향과 부정적인 영향을 
@@ -69,7 +68,7 @@ comments: false
 유용성, 사용성, 감성 중 어디에 영향을 미칠 것인지를 파악해 영향도 앞에 적는다. 이후 추상화된 개념으로 맨 왼쪽에 한마디로 표현하도록 한다.     
 영향도 분석은 특정 기능이나 정보가 사용자에게 어떤 영향을 미치는지 파악하고 균형잡힌 시각으로 제품 디자인에 많은 시사점을 제시할 수 있다.
 
-<p align="center"><img src="/path/to/img.jpg" width="450px" height="300px" ></p><p align="center">""</p><br>
+<p align="center"><img src="https://lh3.googleusercontent.com/proxy/48dzPR3UGs-bd1cYHgtdgsSgVkBTcz7U4HMLfQj4f_h89Q_T3xBCjyzfKKGljjOY-Y-cUSZbGtSj_hnLaWtyJJHH6IoKo9fPrgy-Q-WxnneWqiX2XsyOOdIQWS9VG-Eya0Kbjfi3dIvxj21N5XFzUl5OcYl_P7E_Uuc" width="450px" height="300px" ></p><p align="center"> 출처 : https://m.blog.naver.com/james_parku/110177502426</p><br>
 
 
 

@@ -20,7 +20,7 @@ comments: false
 시퀀스모형에는 실제로 사용자가 어떤 행동을 했고, 그에 따라 무슨 일이 일어났는지가 분명하게 나타나야 한다. 개인 시퀀스모형을 이용하면 사용자가 제품을 사용할 때 
 어떤 의도를 가지고 어떤 행동을 하는지 구체적으로 알 수 있다.   
 
-<p align="center"><img src="/path/to/img.jpg" width="450px" height="300px" ></p><p align="center">""</p><br>
+<p align="center"><img src="https://github.com/Kyuye/kyuye.github.io/blob/master/assets/img/individual%20sequence%20ex.png?raw=true" width="650px" height="300px" ></p><p align="center">""</p><br>
 
 **개인 시퀀스 모형을 작성하는 절차**  
 - 각각의 새로운 시퀀스는 새로운 플립차트에 시작한다(플립차트 : 큰 종이를 여러 장 묶어서 받침대 위에 세워 놓은 것)     
@@ -40,7 +40,7 @@ comments: false
 ### 결합 시퀀스모형 작성단계  
 결합 시퀀스모형은 사용자의 행동의 중요한 구조를 추상화해 보여 준다. 목적은 사용자의 개별 과업을 포괄적으로 설명하기 위함이다.  
 
-<p align="center"><img src="/path/to/img.jpg" width="450px" height="300px" ></p><p align="center">""</p><br>
+<p align="center"><img src="https://github.com/Kyuye/kyuye.github.io/blob/master/assets/img/consolidated%20sequence%20ex.png?raw=true" width="650px" height="300px" ></p><p align="center">""</p><br>
 
 **결합 시퀀스 선택하기**            
 시퀀스에서 다루고 있는 과업이 사용자의 과업에서 얼마나 중요한지를 기준으로 선택한다.   

@@ -27,8 +27,8 @@ comments: false
 아래 사진의 예처럼 원래 화장용 미스트로 출시된 기기가 아토피와 안구건조증에 이용되고 있거나, 블랙박스가 포켓형 캠코더로 이용되고 있는 것처럼 사용자들인 메뉴얼에 나온
 명시적 지식보다는 자신의 경험과 무의식,수요에 따른 묵시적 지식을 기반으로 제품을 사용하고 있다는 것을 알 수 있다. 
 
-<p align="center"><img src="/path/to/img.jpg" width="450px" height="300px" ></p><p align="center">아토피와 안구건조증에 이용하는 ffoggy</p><br>
-<p align="center"><img src="/path/to/img.jpg" width="450px" height="300px" ></p><p align="center">캠코더 블랙박스 </p><br>
+<p align="center"><img src="https://github.com/Kyuye/kyuye.github.io/blob/master/assets/img/foggy.png?raw=true" width="450px" height="300px" ></p><p align="center">아토피와 안구건조증에 이용하는 ffoggy</p><br>
+<p align="center"><img src="https://github.com/Kyuye/kyuye.github.io/blob/master/assets/img/blackbox.png?raw=true" width="450px" height="300px" ></p><p align="center">캠코더 블랙박스 </p><br>
 
 ---------------------------
 
@@ -94,13 +94,12 @@ comments: false
 
 개인 시퀀스모형은 한 명의 사용자가 디지털 제품을 사용하는 과정에서 발생한 촉발원인, 행동을 실행한 의도, 구체적으로 실행한 행동의 단계, 그리고 사용자의 사용의도를
 방해하는 고장 등을 일어난 순서대로 나열한 것이다. 사용자의 행동 단계에는 그 행동의 의도가 하나씩 포함될 수 있다.     
-<p align="center"><img src="https://image.slidesharecdn.com/e3-chap-05-090601111342-phpapp02/95/hci-3e-ch-5-interaction-design-basics-22-728.jpg?cb=1243854885" width="450px" height="300px" ></p><p align="center">개인 시퀀스모형 예시 </p><br>
+<p align="center"><img src="https://github.com/Kyuye/kyuye.github.io/blob/master/assets/img/sequence.png?raw=true" width="450px" height="300px" ></p><p align="center">개인 시퀀스모형 예시 </p><br>
 
 결합 시퀀스모형은 다수의 개인 시퀀스모형에서 나타난 사용자의 단계, 촉발원인, 의도, 고장 등을 추상화하고 결합함으로써 다수의 사용자가 포함된 사용자 집단의 과업 달성을
 위한 행동 단계를 보여 준다. 결합 문화모형(consolidated culutral model)을 기반으로 만들어진 결합 시퀀스모형 
 
-<p align="center"><img src="https://image.slidesharecdn.com/e3-chap-05-090601111342-phpapp02/95/hci-3e-ch-5-interaction-design-basics-22-728.jpg?cb=1243854885" width="450px" height="300px" ></p><p align="center">결합문화모형 예시</p><br>
-<p align="center"><img src="https://image.slidesharecdn.com/e3-chap-05-090601111342-phpapp02/95/hci-3e-ch-5-interaction-design-basics-22-728.jpg?cb=1243854885" width="450px" height="300px" ></p><p align="center">결합 시퀀스모형 예시</p><br>
+<p align="center"><img src="https://github.com/Kyuye/kyuye.github.io/blob/master/assets/img/consolidated sequence.png?raw=true" width="450px" height="300px" ></p><p align="center">결합문화모형 예시</p><br>
 
 ----------------------------
 
@@ -111,7 +110,7 @@ comments: false
 전혀 생각하지 못했던 새로운 제품을 개발하거나 아이디어를 제공받을 수 있다. 그리고 동시에 사람들이 어떤 부담 속에서 작업하는지 알 수 있고, 어떤 측면을 중요하게
 여기는지 알 수 있기에 가치, 감성과 같은 추상적인 부분들도 파악하기에 좋다.  
 
-<p align="center"><img src="https://image.slidesharecdn.com/e3-chap-05-090601111342-phpapp02/95/hci-3e-ch-5-interaction-design-basics-22-728.jpg?cb=1243854885" width="450px" height="300px" ></p><p align="center">직업 분석법의 캘린더 표시예시</p><br>
+<p align="center"><img src="https://github.com/Kyuye/kyuye.github.io/blob/master/assets/img/job analysis.png?raw=true" width="450px" height="300px" ></p><p align="center">직업 분석법의 캘린더 표시예시</p><br>
 
 - 작업흐름 분석법 또는 비즈니스 프로세스 분석법 (workflow analysis, business process analysis)  
 전체 작업을 진행하는 과정에서 누가 어떤 일을 하고, 그 일을 수행하는 과정에 어떤 정보와 어떤 기능을 필요로 하는지 분석하여 여러 사람들 간의 협업으로 진행될 때 
@@ -119,7 +118,7 @@ comments: false
 
 사람이 하는 일의 과정을 분석한다. 그래서 직업 분석법과 작업 분석법은 상호보완적이다. 
 <p align="center"><img src="https://www.moleculardevices.com/themes/moldev/images/3d-cell-imaging-workflow.png" width="450px" height="300px" ></p><p align="center">작업 분석법의 예시, cell culture 프로세스</p><br>
-<p align="center"><img src="https://www.moleculardevices.com/themes/moldev/images/3d-cell-imaging-workflow.png" width="450px" height="300px" ></p><p align="center">전체를 물리적 공간에서 본 작업 분석법 </p><br>
+<p align="center"><img src="https://github.com/Kyuye/kyuye.github.io/blob/master/assets/img/workflow.png?raw=true" width="450px" height="300px" ></p><p align="center">전체를 물리적 공간에서 본 작업 분석법 </p><br>
 
 
 -------------------------------

@@ -57,9 +57,9 @@ comments: false
 ### 극단적인 시나리오로 확장하는 단계   
 긍정적인 시나리오와 부정적인 시나리오를 작성한다. 보통 글을 이용해서 쓴다.  
 
-<p align="center"><img src="https://m.blog.naver.com/james_parku/110177502426?view=img_2" width="450px" height="300px" ></p><p align="center">긍정시나리오 예시, 출처 https://m.blog.naver.com/james_parku/110177502426</p><br>
+<p align="center"><img src="https://lh3.googleusercontent.com/proxy/s3E3tvXY5a9h9QR28rW4Oa7mWs6fOWj7IfhO3HFGj8Xro38R5mPib-5KK-Lbch9FN-GFw_-doUl2_U1spwsSWX0IMAZiiivlrEmy7KskkBYjZTGnfOaQdbUmqk1MBCcFRhZqNnKCYFjdIjrvY95uOBqG5Vor3LYy1JY" width="450px" height="300px" ></p><p align="center">긍정시나리오 예시, 출처 https://m.blog.naver.com/james_parku/110177502426</p><br>
 
-<p align="center"><img src="https://m.blog.naver.com/james_parku/110177502426?view=img_3" width="450px" height="300px" ></p><p align="center">부정시나리오 예시 ,출처 https://m.blog.naver.com/james_parku/110177502426</p><br>
+<p align="center"><img src="https://lh3.googleusercontent.com/proxy/kM0zGY7DiJNpxM5OHLX-iUw_kyOEEZNuOavaoh1DGF8o4leqil5V2LJvYSp1UF3wPNBzYUjec2sEDDlLF3iopOk-QLUk65oAB3QtBBQ-nd4UXAw4O9RycIlXAtSjNQI8B_tcF8E2-ZikUwIKkHDdQyiBTuudHUjVW_A" width="450px" height="300px" ></p><p align="center">부정시나리오 예시 ,출처 https://m.blog.naver.com/james_parku/110177502426</p><br>
 
 ### 영향도를 분석하는 단계    
 > 영향도 분석이란?  각 시나리오에서 파악된 시스템의 기능을 사용자의 행위에 영향을 미칠 요소를 파악하고, 이들이 각각 어떤 긍정적인 영향과 부정적인 영향을 

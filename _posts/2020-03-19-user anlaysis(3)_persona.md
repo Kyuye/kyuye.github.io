@@ -55,7 +55,6 @@ https://uxpressia.com/personas-online-tool
 (7) 사용자 프로파일 작성하기         
 
 
-<p align="center"><img src="https://lh3.googleusercontent.com/proxy/7hOc7W59ZgMG6n6QuVl5AxshCHJltJJERE6-ON5BPsEy24cq1H2bhJyyGJ3hJ4kOmdF1Zn54tqn2n1RA24fXGSWbE31MA0BWWG_tqEpjzL8dI25UwZM6lcE6IN06JyTv5r2lvCn1o4Mte2yihOFOGrvCxP-w3x_Dmd6olCjv6blQwf_i1lwEQYZgLzJbWQolfcZ9vgt0_aNypZiM3sV3oi4dmilGVvCpBTyjyzzbCNf4OUd19ysg2UR_Fr4KVITAZWELYyO51tubyKpSg7qUPzaYdJoDqSFk" width="450px" height="300px" ></p><p align="center">페르소나를 통한 사용자 분석 7단계 from 연세대학교 HCI lab</p><br>
 여기서 1단계와 3단계(사용자 범주파악-세부 범주 기간 구조 도출), 2단계와 5단계(주요 단서 분석-페르소나 작성), 5단계와 6단계(페르소나 작성-평가하기)는 서로가
 반복해서 진행될 수 있다. 
 

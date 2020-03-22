@@ -65,12 +65,9 @@ comments: false
 시나리오 분석법을 이용하면 사용자의 생생한 경험을 통해 개발 초기 단계에서 개발 전체에 대한 윤곽을 그릴 수 있으며 쉽게 수정할 수 있기 떄문에 시스템의 점진적인 개선에 
 대해 언급 가능하다. 동시에 함께 일하는 동료, 사용자와 함께 의사소통할 수 있는 도구로 사용될 수 있어 다양한 측면에서 분석하는 기회가 가능하다.   
 
-하지만 사용자의 개인경험이다보니 일반적인 사항인지 특수사항인지 구분하기 어려워 어떤 시나리오가 핵심 시나리오인지 결정하기 힘들다. 이러한 단점을 보완하기 위해 시나리오를 
-추상시킨 방법이 시퀀스모형 이다. 
-
-
 <p align="center"><img src="https://image.slidesharecdn.com/e3-chap-05-090601111342-phpapp02/95/hci-3e-ch-5-interaction-design-basics-22-728.jpg?cb=1243854885" width="450px" height="300px" ></p><p align="center">scenario 예시 </p><br>
 
+하지만 사용자의 개인경험이다보니 일반적인 사항인지 특수사항인지 구분하기 어려워 어떤 시나리오가 핵심 시나리오인지 결정하기 힘들다. 이러한 단점을 보완하기 위해 시나리오를  추상시킨 방법이 시퀀스모형 이다. 
 
 - 시퀀스모형 분석법 (sequence model analysis)    
 사용자가 일을 하는데 필요한 세부적인 과업들을 실행해 나가는 과정을 순차적으로 기술하는 과업 분석법이다.   
@@ -112,10 +109,9 @@ comments: false
 <p align="center"><img src="https://github.com/Kyuye/kyuye.github.io/blob/master/assets/img/job analysis.png?raw=true" width="450px" height="300px" ></p><p align="center">직업 분석법의 캘린더 표시예시</p><br>
 
 - 작업흐름 분석법 또는 비즈니스 프로세스 분석법 (workflow analysis, business process analysis)  
-전체 작업을 진행하는 과정에서 누가 어떤 일을 하고, 그 일을 수행하는 과정에 어떤 정보와 어떤 기능을 필요로 하는지 분석하여 여러 사람들 간의 협업으로 진행될 때 
-많이 사용된다. 앞에서 직업 분석법이 한 사람이 하는 일을 시간이라는 축으로 종적(시간순)으로 분석했다면, 작업흐름 분석법은 하나의 일을 중심으로 횡적으로 여러 
+전체 작업을 진행하는 과정에서 누가 어떤 일을 하고, 그 일을 수행하는 과정에 어떤 정보와 어떤 기능을 필요로 하는지 분석하여 여러 사람들 간의 협업으로 진행될 때 많이 사용된다.앞에서 직업 분석법이 한 사람이 하는 일을 시간이라는 축으로 종적(시간순)으로 분석했다면, 작업흐름 분석법은 하나의 일을 중심으로 횡적으로 여러 사람이 하는 일의 과정을 분석한다. 그래서 직업 분석법과 작업 분석법은 상호보완적이다. 
 
-사람이 하는 일의 과정을 분석한다. 그래서 직업 분석법과 작업 분석법은 상호보완적이다. 
+
 <p align="center"><img src="https://www.moleculardevices.com/themes/moldev/images/3d-cell-imaging-workflow.png" width="450px" height="300px" ></p><p align="center">작업 분석법의 예시, cell culture 프로세스</p><br>
 <p align="center"><img src="https://github.com/Kyuye/kyuye.github.io/blob/master/assets/img/workflow.png?raw=true" width="450px" height="300px" ></p><p align="center">전체를 물리적 공간에서 본 작업 분석법 </p><br>
 

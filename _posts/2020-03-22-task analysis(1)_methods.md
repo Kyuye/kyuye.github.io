@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[과업분석(1)] 과업분석의 종류와 중요성"
-date:   2020-03-19
+date:   2020-03-22
 excerpt: "과업분석이 무엇인지 "
 tag:
 - markdown 
@@ -19,9 +19,7 @@ comments: false
 
 > 과업분석(task analysis) : 사용자가 디지털 제품을 이용해 어떤 일을 어떻게 수행하는지 분석하는 과정     
 
-우리가 제품을 기획하고 개발하고나면 우리가 목표로하고 정의한 사용자가 이걸 직접 쓰는걸 굳이 볼 필요가 있나? 라고 생각하기 쉽상인데, 우리의 예상과는 다르게 사용자가 다르게
-사용하는지 어떻게 사용하는지 꼭 확인하고 넘어가야한다. 솔직히 우리 제품 이렇게 잘 만들어놨는데 사용자가 실제로 어떻게 사용하는지 보고싶지 않은가? (만약 그래도 사용자의
-진짜 사용하는 모습을 보고 싶지 않다면 사실 우리 제품에 흥미가 없거나 우리 의도와는 다르게 사용할까봐 두려운 것일지도 모른다!) 
+우리가 제품을 기획하고 개발하고나면 우리가 목표로하고 정의한 사용자가 이걸 직접 쓰는걸 굳이 볼 필요가 있나? 라고 생각하기 쉽상인데, 우리의 예상과는 다르게 사용자가 다르게 사용하는지 어떻게 사용하는지 꼭 확인하고 넘어가야한다. 솔직히 우리 제품 이렇게 잘 만들어놨는데 사용자가 실제로 어떻게 사용하는지 보고싶지 않은가? (만약 그래도 사용자의진짜 사용하는 모습을 보고 싶지 않다면 사실 우리 제품에 흥미가 없거나 우리 의도와는 다르게 사용할까봐 두려운 것일지도 모른다!) 
 
 과업분석이 진짜 중요한 이유는 사용자에게 최적의 경험을 제공하기 위해서는 기본적으로 유용해야 하는데, 이 유용함을 확인하기 위해서는 과업분석이 효과적이기 때문이다.   
 메뉴얼이나 작업규정같은 '명시적 지식(explicit knowledg)'대로 사용자는 따르지 않을 확률이 높으며 사람들이 실제로 사용하는 정보와 같은 비정형의 지식을 **'묵시적 지식(tacit knowledge)'**을 
@@ -30,7 +28,7 @@ comments: false
 명시적 지식보다는 자신의 경험과 무의식,수요에 따른 묵시적 지식을 기반으로 제품을 사용하고 있다는 것을 알 수 있다. 
 
 <p align="center"><img src="https://github.com/Kyuye/kyuye.github.io/blob/master/assets/img/foggy.png?raw=true" width="450px" height="300px" ></p><p align="center">아토피와 안구건조증에 이용하는 ffoggy</p><br>
-<p align="center"><img src="https://github.com/Kyuye/kyuye.github.io/blob/master/assets/img/blackbox.png?raw=true" width="450px" height="300px" ></p><p align="center">캠코더 블랙박스 </p><br>
+<p align="center"><img src="https://github.com/Kyuye/kyuye.github.io/blob/master/assets/img/blckbox.png?raw=true" width="450px" height="300px" ></p><p align="center">캠코더 블랙박스 </p><br>
 
 ---------------------------
 
@@ -85,11 +83,11 @@ comments: false
 
 하지만 추상적인 표현으로 이루어져 사람에 따라 다르게 해석할 수 있어 구체적인 정보를 제공해주는 시나리오와 병행하는 것이 필요하다. 
 
-**시퀀스모형의 구성 요소!!**
-(1) 단계(step) : 하나의 행동이 하나의 단계 
-(2) 촉발원인(trigger) : 사용자가 새로운 과업이나 특정한 단계를 시작하도록 자극하는 상황이나 사건 
-(3) 사용의도 (use intention) : 사용자가 과업을 하고자 하는 전반적인 이유, 과업의 활동과 단계들에 대한 이유 
-(4) 고장 (breakdowns) : 제품이나 서비스를 사용하면서 사용자의 의도와 충돌되는 사건 
+**시퀀스모형의 구성 요소!!**           
+(1) 단계(step) : 하나의 행동이 하나의 단계         
+(2) 촉발원인(trigger) : 사용자가 새로운 과업이나 특정한 단계를 시작하도록 자극하는 상황이나 사건          
+(3) 사용의도 (use intention) : 사용자가 과업을 하고자 하는 전반적인 이유, 과업의 활동과 단계들에 대한 이유             
+(4) 고장 (breakdowns) : 제품이나 서비스를 사용하면서 사용자의 의도와 충돌되는 사건                 
 
 **시퀀스모형의 종류**    
 '개인 시퀀스모형'(individual sequence mdoeL)과 개인 시퀀스모형을 합한 '결합 시퀀스모형(consolidated sequence model)'이 있다.  
@@ -98,8 +96,7 @@ comments: false
 방해하는 고장 등을 일어난 순서대로 나열한 것이다. 사용자의 행동 단계에는 그 행동의 의도가 하나씩 포함될 수 있다.     
 <p align="center"><img src="https://github.com/Kyuye/kyuye.github.io/blob/master/assets/img/sequence.png?raw=true" width="450px" height="300px" ></p><p align="center">개인 시퀀스모형 예시 </p><br>
 
-결합 시퀀스모형은 다수의 개인 시퀀스모형에서 나타난 사용자의 단계, 촉발원인, 의도, 고장 등을 추상화하고 결합함으로써 다수의 사용자가 포함된 사용자 집단의 과업 달성을
-위한 행동 단계를 보여 준다. 결합 문화모형(consolidated culutral model)을 기반으로 만들어진 결합 시퀀스모형 
+결합 시퀀스모형은 다수의 개인 시퀀스모형에서 나타난 사용자의 단계, 촉발원인, 의도, 고장 등을 추상화하고 결합함으로써 다수의 사용자가 포함된 사용자 집단의 과업 달성을 위한 행동 단계를 보여 준다. 결합 문화모형(consolidated culutral model)을 기반으로 만들어진 결합 시퀀스모형 
 
 <p align="center"><img src="https://github.com/Kyuye/kyuye.github.io/blob/master/assets/img/consolidated sequence.png?raw=true" width="450px" height="300px" ></p><p align="center">결합문화모형 예시</p><br>
 

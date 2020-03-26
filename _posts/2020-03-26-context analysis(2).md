@@ -21,8 +21,7 @@ comments: false
 위의 표는 실제 사용자의 환경에 얼마나 가까이 접근하는지에 따라 구분하는 방법으로 나누어 본 것이다. 사용자의 환경에 가장 근접하게 접근하는 방법은 거의 모든 분석이 사용자 환경에서 이루어지고 개발자는 최소한의 
 간섭을 통해 사용자의 실제 모습이 최대한 드러나도록 한다는 것이다.  
 
-앞으로 설명한 것들처럼 다양한 방법의 맥락 정보 수집 및 분석 방법이 있는데 각각 장단점을 가지고 있기 때문에 어느것이 무엇이 딱 좋다고는 말하기 힘들다. 그래서 적절하게
-섞어서 쓰는 것을 추천하는데 보통은 자가 모니터링 기법을 많이 사용하는 추세이다. 하나씩 설명해보도록 하자.
+앞으로 설명한 것들처럼 다양한 방법의 맥락 정보 수집 및 분석 방법이 있는데 각각 장단점을 가지고 있기 때문에 어느것이 무엇이 딱 좋다고는 말하기 힘들다. 그래서 적절하게 섞어서 쓰는 것을 추천하는데 보통은 자가 모니터링 기법을 많이 사용하는 추세이다. 하나씩 설명해보도록 하자.
 
 ---------------------------------------
 
@@ -37,6 +36,8 @@ comments: false
 다만 단점으로는 인류학적 방법론은 맥락 분석에 많은 시간과 노력이 들어가서 한계를 가지고 있다.  
 
 <p align="center"><img src="https://github.com/Kyuye/kyuye.github.io/blob/master/assets/img/ethnography.png?raw=true" width="450px" height="300px" ></p><p align="center">인류학적 방법론 예</p><br>
+
+
 -------------------------------
 
 ## 자가 모니터링 기법 (self monitering technique)  
@@ -163,7 +164,7 @@ comments: false
 (8가지 문화적 맥락 요소 : 시간 지각, 시간적 편중성, 권력거리, 개인주의/집단주의, 남성/여성주의, 불확실성 회피성향, 명시적/묵시적 성향, 지배적 성향)
 선정한 요소로 설문 문항을 만들고 결과값을 평균을 내서 개인의 문화적 맥락을 표현한다.  
 
-<p align="center"><img src=https://github.com/Kyuye/kyuye.github.io/blob/master/assets/img/paper_cultural.png?raw=true" width="450px" height="300px" ></p><p align="center">문화성향 분석 예시</p><br>
+<p align="center"><img src=https://github.com/Kyuye/kyuye.github.io/blob/master/assets/img/paper_culutural.png?raw=true" width="450px" height="300px" ></p><p align="center">문화성향 분석 예시</p><br>
 출처 : Kim, J.-H. (2014). 개인 문화성향에 따른 정보 인식과 태도 차이에 대한 연구. 한국비블리아학회지:한국비블리아, 25(3), 59–76. https://doi.org/10.14699/KBIBLIA.2014.25.3.059
   
 

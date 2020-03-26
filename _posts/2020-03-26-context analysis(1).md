@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[맥락분석(1)] 맥락분석의 정의와 종류"
-date:   2020-03-22
+date:   2020-03-26
 excerpt: "맥락분석은 무엇이며 어떤 종류가 있을까"
 tag:
 - markdown 

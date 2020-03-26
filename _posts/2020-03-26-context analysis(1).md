@@ -54,7 +54,7 @@ HCI를 적용하겠다면 눈에 보이지 않는 환경과 맥락에 대한 전
 내가 참고한 연세대학교 HCI lab의 책에서는 물리/사회/문화로 나눠보았기에 이를 중점적으로 설명하려고 한다.  
 개인에 대한 분석이 참고된 영상은 아래 영상을 참고하면 된다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FDxaIWo1DM8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video Label](http://img.youtube.com/vi/FDxaIWo1DM8/0.jpg)](https://youtu.be/FDxaIWo1DM8)
 
 
 

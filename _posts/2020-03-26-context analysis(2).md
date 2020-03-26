@@ -164,7 +164,8 @@ comments: false
 (8가지 문화적 맥락 요소 : 시간 지각, 시간적 편중성, 권력거리, 개인주의/집단주의, 남성/여성주의, 불확실성 회피성향, 명시적/묵시적 성향, 지배적 성향)
 선정한 요소로 설문 문항을 만들고 결과값을 평균을 내서 개인의 문화적 맥락을 표현한다.  
 
-<p align="center"><img src=https://github.com/Kyuye/kyuye.github.io/blob/master/assets/img/paper_culutural.png?raw=true" width="450px" height="300px" ></p><p align="center">문화성향 분석 예시</p><br>
+<p align="center"><img src=https://github.com/Kyuye/kyuye.github.io/blob/master/assets/img/paper_culutural.png?raw=true" width="450px" height="300px"></p><p align="center">문화성향 분석 예시</p><br>
+  
 출처 : Kim, J.-H. (2014). 개인 문화성향에 따른 정보 인식과 태도 차이에 대한 연구. 한국비블리아학회지:한국비블리아, 25(3), 59–76. https://doi.org/10.14699/KBIBLIA.2014.25.3.059
   
 

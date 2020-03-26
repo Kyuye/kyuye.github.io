@@ -59,7 +59,7 @@ HCI를 적용하겠다면 눈에 보이지 않는 환경과 맥락에 대한 전
 
 
 물리적 맥락, 사회적 맥락, 문화적 맥락으로 나누어 볼 수 있다. 각각의 맥락 안에는 시간, 장소, 기타요소 가 있다.  
-<p align="center"><img src="/path/to/img.jpg" width="450px" height="300px" ></p><p align="center">""</p><br>
+<p align="center"><img src="https://github.com/Kyuye/kyuye.github.io/blob/master/assets/img/context_analysis.png?raw=true" width="450px" height="300px" ></p><p align="center">맥락분석의 종류 3가지 by 연세 HCI lab</p><br>
 
 
 - 물리적 맥락 : 사회 문화적인 가치가 반영되지 않은 정보 그 자체, 실제 객관적으로 측정할 수 있는 물리적 환경 (예: 메타 데이터/ 조명밝기, 소음의 정도)         

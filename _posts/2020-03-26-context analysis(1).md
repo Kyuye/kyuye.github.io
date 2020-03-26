@@ -52,16 +52,13 @@ HCI를 적용하겠다면 눈에 보이지 않는 환경과 맥락에 대한 전
 
 맥락분석의 종류는 다양하게 다양하게 나눠볼 수 있으나 대표적으로 개인/사회/문화 이렇게 또는 물리/개인/사회/문화 이렇게 나눈다.
 내가 참고한 연세대학교 HCI lab의 책에서는 물리/사회/문화로 나눠보았기에 이를 중점적으로 설명하려고 한다.  
-개인에 대한 분석이 참고된 영상은 아래 링크를 참고하면 된다.
+개인에 대한 분석이 참고된 영상은 아래 영상을 참고하면 된다.
 
-https://youtu.be/FDxaIWo1DM8
-
-<p align="center"><img src="/path/to/img.jpg" width="450px" height="300px" ></p><p align="center">""</p><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FDxaIWo1DM8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
-
-우리 HCI는 넓은 의미에서 맥락을 바라보며 여기에는 물리적 맥락, 사회적 맥락, 문화적 맥락으로 나누어 볼 수 있다. 각각의 맥락 안에는 시간, 장소, 기타요소 가 있다.  
+물리적 맥락, 사회적 맥락, 문화적 맥락으로 나누어 볼 수 있다. 각각의 맥락 안에는 시간, 장소, 기타요소 가 있다.  
 <p align="center"><img src="/path/to/img.jpg" width="450px" height="300px" ></p><p align="center">""</p><br>
 
 

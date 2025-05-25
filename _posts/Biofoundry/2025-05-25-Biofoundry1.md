@@ -2,7 +2,7 @@
 layout: post
 title: "바이오파운드리가 뭐야"
 date: 2025-05-25
-excerpt: "Biofoundry is a platform for building and running biological experiments."
+excerpt: "요즘 핫한 바이오파운드리에 대해서 일목요얀하게 정리해봄."
 tags: [sample post, readability, test]
 permalink: /posts
 lang: kr

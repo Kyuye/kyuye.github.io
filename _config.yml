@@ -1,6 +1,6 @@
 # Site
-title:              Kyuye Song
-bio:                'The bunny scientist: science makes me hoppy'
+title:              The bunny scientist
+bio:                'Science Makes Me Hoppy'
 description:        "Biofoundry,Bio,Medicine,Tech"
 reading_time:       true
 words_per_minute:   200
@@ -38,12 +38,12 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            https://x.com/skylarskysong
-facebook:           https://www.facebook.com/ivyheart2
-github-url:         https://github.com/Kyuye
-linkedin:           https://www.linkedin.com/in/kyu-ye-song/
+twitter:            skylarskysong
+facebook:           ivyheart2
+github-url:         Kyuye
+linkedin:           kyu-ye-song
 #instagram:          username
-brunch:             https://brunch.co.kr/@bunnyscientist/
+brunch:             @bunnyscientist
 #youtube:           username
 #youtube-channel:   channel
 

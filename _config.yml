@@ -4,7 +4,7 @@ bio:                'The bunny scientist: science makes me hoppy'
 description:        "Biofoundry,Bio,Medicine,Tech"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/FullLogo_NoBuffer.jpg'
+logo:               'assets/img/FullLogo.png'
 background:         'assets/img/20250525_1607_Bunny Scientist in Lab_simple_compose_01jw346baef4c88r85j5n5w5w7.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -38,12 +38,12 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
+twitter:            https://x.com/skylarskysong
 facebook:           https://www.facebook.com/ivyheart2
 github-url:         https://github.com/Kyuye
-linkedin:          https://www.linkedin.com/in/kyu-ye-song/
+linkedin:           https://www.linkedin.com/in/kyu-ye-song/
 #instagram:          username
-#brunch:            '@username'
+brunch:             https://brunch.co.kr/@bunnyscientist/
 #youtube:           username
 #youtube-channel:   channel
 

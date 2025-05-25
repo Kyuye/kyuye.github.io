@@ -1,11 +1,11 @@
 # Site
 title:              Kyuye Song
-bio:                'All about HCI : tech for human'
-description:        "오직 사람을 위한 기술만을 다룹니다.사람이 중심입니다"
+bio:                'The bunny scientist: science makes me hoppy'
+description:        "Biofoundry,Bio,Medicine,Tech"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+logo:               'assets/img/FullLogo_NoBuffer.jpg'
+background:         'assets/img/20250525_1607_Bunny Scientist in Lab_simple_compose_01jw346baef4c88r85j5n5w5w7.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://kyuye.github.io
@@ -41,9 +41,9 @@ disqus_shortname:   taylantatli
 twitter:            username
 facebook:           https://www.facebook.com/ivyheart2
 github-url:         https://github.com/Kyuye
-#linkedin:          username
-instagram:          username
-#medium:            '@username'
+linkedin:          https://www.linkedin.com/in/kyu-ye-song/
+#instagram:          username
+#brunch:            '@username'
 #youtube:           username
 #youtube-channel:   channel
 

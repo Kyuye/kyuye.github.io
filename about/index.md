@@ -16,7 +16,7 @@ comments: true
 앞으로의 목표는 광유전학, 합성생물학, 인공지능 기술을 융합하여 신경과학의 새로운 도구와 치료법을 개발하는 것입니다. 특히, AI 기반 정밀 제어 기술을 활용하여 세포, 조직, 나아가 생명체 전체를 더 깊이 이해하고 설계하는 데 기여하고자 합니다. 이 과정에서 저는 바이오파운드리(Biofoundry) 구축 및 활용에 큰 관심을 두고 있습니다. 바이오파운드리는 유전자 회로 설계, 세포 프로그램 개발, 치료 기술 최적화를 자동화하고 고속으로 수행할 수 있는 차세대 생물공학 인프라입니다. 저는 이러한 바이오파운드리를 통해 생명과학 연구의 속도와 재현성을 비약적으로 높이고, 실험실 기술을 산업 현장과 임상에 빠르게 연결하는 데 기여하고자 합니다. 궁극적으로는 이러한 첨단 기술들을 실용화하고 창업과 교육을 통해 사회와 연결하는 다리 역할을 하고 싶습니다.
 
 
-<p align="center"><img src="https://github.com/Kyuye/kyuye.github.io/blob/main/assets/img/20250525_1607_Bunny%20Scientist%20in%20Lab_simple_compose_01jw346baef4c88r85j5n5w5w7.png?raw=true" width="500px" height="300px"></p><p align="center">실수하지말자!</p>
+<p align="center"><img src="https://github.com/Kyuye/kyuye.github.io/blob/main/assets/img/20250525_1607_Bunny%20Scientist%20in%20Lab_simple_compose_01jw346baef4c88r85j5n5w5w7.png" width="500px" height="300px"></p><p align="center">실수하지말자!</p>
 
 
 ## 사용기술 및 전문분야  

@@ -4,7 +4,7 @@ title: "바이오파운드리가 뭐야"
 date: 2025-05-25
 excerpt: "요즘 핫한 바이오파운드리에 대해서 일목요연하게 정리해봄."
 tags: [sample post, readability, test]
-permalink: /posts/
+permalink: /posts
 lang: kr
 comments: true
 ---

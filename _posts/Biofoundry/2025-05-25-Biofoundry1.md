@@ -56,6 +56,9 @@ comments: true
 
 DBTL = Design – Build – Test – Learn.
 
+<img src="https://webzine-eng.snu.ac.kr/web/vol126/img/sub0103_09_15.jpg" alt="biof1">
+출처: 서울공대 웹진
+
 즉,
 
 설계하고 (Design),
@@ -91,6 +94,10 @@ Biofoundry = 생물학적 부품(유전자, 회로, 균주 등)을 설계해서 
 → 설계 파일 넘기면 → 로봇이 조립하고 → 자동으로 발현 테스트하고 → 데이터 뽑고 → AI가 해석하고 → 다시 설계해줌.
 
 사람은? 커피 마시면서 결과 지켜보면 됨. (꿈 같…)
+
+<img src="https://image.dongascience.com/Photo/2023/01/9b25a0c2eb6b12cb393bbea5b3f8374c.jpg" alt="biof">
+
+출처:동아사이언스
 
 ## 뭐가 좋은데?
 

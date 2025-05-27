@@ -16,8 +16,7 @@ comments: true
 앞으로의 목표는 광유전학, 합성생물학, 인공지능 기술을 융합하여 신경과학의 새로운 도구와 치료법을 개발하는 것입니다. 특히, AI 기반 정밀 제어 기술을 활용하여 세포, 조직, 나아가 생명체 전체를 더 깊이 이해하고 설계하는 데 기여하고자 합니다. 이 과정에서 저는 바이오파운드리(Biofoundry) 구축 및 활용에 큰 관심을 두고 있습니다. 바이오파운드리는 유전자 회로 설계, 세포 프로그램 개발, 치료 기술 최적화를 자동화하고 고속으로 수행할 수 있는 차세대 생물공학 인프라입니다. 저는 이러한 바이오파운드리를 통해 생명과학 연구의 속도와 재현성을 비약적으로 높이고, 실험실 기술을 산업 현장과 임상에 빠르게 연결하는 데 기여하고자 합니다. 궁극적으로는 이러한 첨단 기술들을 실용화하고 창업과 교육을 통해 사회와 연결하는 다리 역할을 하고 싶습니다.
 
 
-![image](https://videos.openai.com/vg-assets/assets%2Ftask_01jw346akqf2cvsdncfgtra9p2%2F1748156860_img_2.webp?st=2025-05-25T05%3A43%3A46Z&se=2025-05-31T06%3A43%3A46Z&sks=b&skt=2025-05-25T05%3A43%3A46Z&ske=2025-05-31T06%3A43%3A46Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=3d249c53-07fa-4ba4-9b65-0bf8eb4ea46a&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=trQPRvcpG%2BVko2iwNhuHls5aZBZ%2FNcUMEyeXafn6%2FcM%3D&az=oaivgprodscus)
-
+![image](/assets/img/bunny.png)
 
 ## 사용기술 및 전문분야  
 - Python, Matlab, Tensorflow, SPSS, OpenCV, Pandas, Matplotlib, Typescript, Swift  

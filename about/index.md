@@ -3,7 +3,7 @@ layout: page
 title: About the Bunny Scientist Story 
 tags: [about, Jekyll, theme, moon]
 date: 2025-05-25
-permalink: /about
+permalink: /about/
 lang: kr
 comments: true
 ---

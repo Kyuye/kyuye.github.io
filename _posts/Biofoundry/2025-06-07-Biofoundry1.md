@@ -15,7 +15,9 @@ comments: true
 나는 합성생물학을 공부하는 박사과정 학생이다. 하지만 박사과정 이전에는 AI와 로보틱스를 전공하여 자동화 시스템에 지속적인 관심을 가지고 있다. 그래서 그런가 졸업 후에는 바이오파운드리 분야에서 일하며 연구와 현장을 배우고 싶다. 최근 바이오 파운드리 유투브를 보던 중, Stéphane Lemaire가 소개한 파리 바이오파운드리 이야기를 들었다.나는 취미삼아 프랑스어를 공부하고 있기도 하고, 원래부터 어느정도 바이오파운드리가 발전되어 있는 미국과는 다르게 프랑스도 한국처럼 이제 바이오파운드리에 박차를 가하는 중인 것으로 알고 있기에 참고할 만한 부분이 있을거라 생각해서 정리해 보았다.
 
 
-[![Video Label]](https://github.com/Kyuye/kyuye.github.io/blob/main/assets/img/paris_1.png?raw=true)(https://youtu.be/W0mttrRYqdc?si=mmN0Roy_1aw7CDXJ)
+[![프랑스 바이오파운드리](https://github.com/Kyuye/kyuye.github.io/blob/main/assets/img/paris_1.png?raw=true)](https://youtu.be/QYNwbZHmh8g?t=0s) 
+
+
 ## 1. 합성생물학 기반 바이오파운드리
 
 합성생물학은 단순히 유전자를 재조합해 인공 생물 시스템을 만드는 것을 넘어선다. 장기간에 걸쳐 발전된 생물 기작을 빠르게 이해하고, 이를 바탕으로 새로운 물질을 합성하거나 시스템을 설계하는 분야다. Lemaire는 이 분야가 단지 실험실 도구에 그치지 않고, 석유 정제 시설을 대체할 바이오 정제 시설(bio-refinery)을 형성할 수 있다고 본다.
